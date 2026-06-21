@@ -1,2 +1,12 @@
 # proiqy-journal
-HTML page archive and documentation
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
